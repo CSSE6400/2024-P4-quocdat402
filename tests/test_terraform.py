@@ -54,7 +54,7 @@ git clone https://github.com/Hextris/hextris .
 """
 
 EXPECTED_INSTANCE = {
-    "ami": "ami-0e731c8a588258d0d",
+    "ami": "ami-0c101f26f147fa7fd",
     "instance_type": "t2.micro",
     "user_data": USER_DATA,
     "security_groups": {
